@@ -1,0 +1,13 @@
+W trakcie gry, po˜rodku g¢rnej kraw©dzi,
+pojawiaj¥ si© pojedynczo klocki zˆo¾one
+z 4 kwadrat¢w. Kiedy jeden klocek opadnie,
+zostaje unieruchomiony, a nast©pny ukazuje
+si© u g¢ry planszy. Gra trwa a¾ do momentu,
+w kt¢rym klocek nie b©dzie m¢gˆ pojawi†
+si© na planszy. Zadaniem gracza jest 
+ukˆadanie klock¢w na planszy w taki spos¢b, 
+aby kwadraty skˆadaj¥ce si© na nie utworzyˆy
+wiersz na caˆej szeroko˜ci prostok¥ta.
+W takiej sytuacji wiersz ten zostaje 
+usuni©ty. Po usuni©ciu okre˜lonej liczby 
+wierszy pr©dko˜† gry wzrasta.
